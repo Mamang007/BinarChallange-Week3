@@ -1,0 +1,362 @@
+/* Halaman 1 */
+.section-one {
+    background-image: url(../image/home/main-bg.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+.navbar-brand.logo {
+    font-family: sans-serif;
+    margin-left: 107px;
+    margin-right: 107px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.nav-link.feature {
+    margin-right: 32px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.nav-link.join {
+    margin-right: 32px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.text-title {
+    font-size: 300%;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 223px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .description {
+    font-size: 150%;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+  }
+
+  .button {
+    background-color: #eeb64e;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;;
+  }
+
+  .ToggleButton {
+    margin-top: 250px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  /* Halaman 2 */
+  .section-two {
+    background-image: url(../image/home/the-games-bg.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+  }
+
+  .contentTwo {
+    margin: 0;
+  }
+
+  .textSectionTwo {
+    color: aliceblue;
+    margin-top: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 400px;
+  }
+
+  h3.textOne {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;    
+  }
+  h1.textTwo {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+
+  .content-picture {
+      background-image: url(../image/home/rockpaperstrategy-1600.jpg);
+      width: 858px;
+      height: 477px;
+      position: absolute;
+      background-size: contain;
+      background-repeat: no-repeat;
+      margin-top: 200px;
+      margin-left: 500px;
+  }
+
+  .toggleLeft {
+    position: absolute;
+    left: -30px;
+    top: 200px;
+  }
+
+  .toggleRight {
+    position: absolute;
+    right: -30px;
+    top: 200px;
+  }
+
+  .bulletOne {
+    position: absolute;
+    bottom: 70px;
+    left: 329px;
+  }
+
+  .bulletTwo {
+    position: absolute;
+    bottom: 70px;
+    left: 379px;
+  }
+
+  .bulletThree {
+    position: absolute;
+    bottom: 70px;
+    left: 429px;
+  }
+
+  .bulletFour {
+    position: absolute;
+    bottom: 70px;
+    left: 479px;
+  }
+
+  .bulletFive {
+    position: absolute;
+    bottom: 70px;
+    left: 529px;
+  }
+
+  /* Halaman 3 */
+  .section-three {
+    background-image: url(../image/home/features.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+  }
+  .textSectionThree {
+    color: aliceblue;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 146px;
+    left: 702px;
+  }
+  h3.textOnePageThree {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+  }
+  h1.textTwoPageThree {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+  }
+  .navigationS {
+    position: relative;
+    top: 245px;
+    left: 685px;
+  }
+  .features {
+    position: relative;
+    left: 742px;
+  }
+  h2.textThreePageThree {
+    color: #FFB548;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 5px;
+  }
+  h4.textFourPageThree {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 2px;  
+  }
+  .featuresTwo {
+    color: #FFB548;
+    position: relative;
+    left: 742px;
+    top: 56px;
+    margin-bottom: 100px;
+  }
+  .featuresThree {
+    color: #FFB548;
+    position: relative;
+    left: 742px;
+    top: 9px;
+    margin-bottom: 100px;
+  }
+
+  /* Halaman 4 */
+  .section-four {
+    background-image: url(../image/home/requirements.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+  }
+  h3.main {
+    position: relative;
+    top: 145px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+  }
+  h1.main {
+    position: relative;
+    top: 190px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 47px;
+    line-height: 64px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  table.tableStyle {
+    position: relative;
+    top: 200px;
+  }
+  td.requirement {
+    border: 1px solid #979797;
+    position: relative;
+    padding: 15px;
+  }
+  h2.main {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: #FFB548;
+  }
+  p.second {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+  }
+
+  /* Halaman 5 */
+  .section-five {
+    background: black;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+  }
+  h1.mainSectionFive {
+    position: relative;
+    top: 320px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+  }
+  h4.secondSectionFive {
+    position: relative;
+    top: 320px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+  }
+  .btn {
+    background: linear-gradient(194.68deg, #FFB548 11.27%, #F3AF34 90.4%);
+    border-radius: 4px;
+    height: 60px;
+    width: 260px;
+    position: relative;
+    left: 5px;
+    top: 375px;
+  }
+  p.tombol {
+    font-display: #1A1917;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: lowercase;
+    padding-top: 10px;
+  }
+  .commentOne {
+    margin-top: 20px;
+    margin-left: 150px;
+  }
+  svg.ppOne {
+    position: relative;
+    top: -170px;
+    left: 21px;
+  }
+  .commentTwo {
+    margin-bottom: 20px;
+  }
+  svg.ppTwo {
+    position: relative;
+    top: -53px;
+    left: -434px;
+  }
+  .commentThree {
+    margin-left: 150px;
+    margin-top: 70px;
+  }
+  svg.ppThree {
+    position: relative;
+    top: -189px;
+    left: 25px;
+  }
+
+  

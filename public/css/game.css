@@ -1,0 +1,82 @@
+.navText {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;
+    color: #f9b23d;
+}
+
+.backButton {
+    position: absolute;
+    top: 18px;
+    left: 10px;
+}
+
+.homeButton {}
+
+img {
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
+
+.hand {
+    margin: 90px 135px;
+}
+
+.vs-text {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 144px;
+    line-height: 196px;
+    color: #BD0000;
+    position: relative;
+    top: 170px;
+    text-align: center;
+}
+
+.highlight {
+    width: 150px;
+    height: 150px;
+    background: #C4C4C4;
+    border-radius: 30px;
+    padding: 25px;
+}
+
+.highlightCom {
+    width: 150px;
+    height: 150px;
+    background: #C4C4C4;
+    border-radius: 30px;
+    padding: 25px;
+}
+
+.player-result-win {
+    height: 150px;
+    width: 250px;
+    background-color: green;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    transform: rotate(-20deg);
+}
+
+.player-result-lose {
+    height: 150px;
+    width: 250px;
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    transform: rotate(-20deg);
+}
+
+.player-result-draw {
+    height: 150px;
+    width: 250px;
+    background-color: #035B0C;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    transform: rotate(-20deg);
+}
